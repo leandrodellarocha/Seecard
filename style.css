@@ -23,7 +23,7 @@
   vertical-align: text-top !important; }
 
 .bg-faded {
-  background-color: #171717; }
+  background-color: #f7f7f7; }
 
 .bg-primary {
   background-color: #1dc8e7 !important; }
@@ -3054,7 +3054,7 @@ pre {
     color: #fff;
     background-color: #1dc8e7; }
   .custom-control-input:focus ~ .custom-control-indicator {
-    box-shadow: 0 0 0 1px #1f1f1f, 0 0 0 3px #1dc8e7; }
+    box-shadow: 0 0 0 1px #ffffff, 0 0 0 3px #1dc8e7; }
   .custom-control-input:active ~ .custom-control-indicator {
     color: #fff;
     background-color: #beeff8; }
@@ -4351,7 +4351,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #1f1f1f;
+  background-color: #ffffff;
   border: 1px solid #ddd;
   border-radius: 0.25rem;
   transition: all 0.2s ease-in-out;
@@ -4769,8 +4769,8 @@ button.list-group-item-danger {
   .nav-tabs .nav-link.active,
   .nav-tabs .nav-item.show .nav-link {
     color: #464a4c;
-    background-color: #1f1f1f;
-    border-color: #ddd #ddd #1f1f1f; }
+    background-color: #ffffff;
+    border-color: #ddd #ddd #ffffff; }
   .nav-tabs .dropdown-menu {
     margin-top: -1px;
     border-top-left-radius: 0;
@@ -5389,7 +5389,7 @@ body {
   font-weight: normal;
   line-height: 1.5;
   color: #ffffff;
-  background-color: #1f1f1f; }
+  background-color: #ffffff; }
 
 [tabindex="-1"]:focus {
   outline: none !important; }
@@ -5683,7 +5683,7 @@ template {
   .table tbody + tbody {
     border-top: 2px solid #eceeef; }
   .table .table {
-    background-color: #1f1f1f; }
+    background-color: #ffffff; }
 
 .table-sm th,
 .table-sm td {
@@ -5760,7 +5760,7 @@ template {
     background-color: #ebcccc; }
 
 .thead-inverse th {
-  color: #1f1f1f;
+  color: #ffffff;
   background-color: #292b2c; }
 
 .thead-default th {
@@ -5768,7 +5768,7 @@ template {
   background-color: #eceeef; }
 
 .table-inverse {
-  color: #1f1f1f;
+  color: #ffffff;
   background-color: #292b2c; }
   .table-inverse th,
   .table-inverse td,
