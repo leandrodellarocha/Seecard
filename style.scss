@@ -12,6 +12,11 @@
 
 
 // Colors
+	{
+    background: #8a00ff;
+    padding: 0px;
+    border: none;
+}
 //
 
 // Start with assigning color names to specific hex values.
@@ -35,12 +40,12 @@ $gray-lighter:              #eceeef !default;
 $gray-lightest:             #f7f7f9 !default;
 
 // Reassign color vars to semantic color scheme
-$brand-primary:             8a00ff;
-$brand-success:             00ff24;
-$brand-info:                e71d1d;
-$brand-warning:             f6ff00;
-$brand-danger:              fc00ff;
-$brand-inverse:             ffb400;
+$brand-primary:             #1dc8e7;
+$brand-success:             $green !default;
+$brand-info:                $teal !default;
+$brand-warning:             $orange !default;
+$brand-danger:              $red !default;
+$brand-inverse:             $gray-dark !default;
 
 
 // Options
